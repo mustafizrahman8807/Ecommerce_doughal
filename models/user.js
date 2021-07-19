@@ -59,4 +59,4 @@ userSchema.methods = {
 
 module.exports = mongoose.model('User', userSchema);
 
-//Module-3, Lesson-2 finish
+//Module-3, Lesson-3 finish
